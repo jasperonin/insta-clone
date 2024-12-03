@@ -1,0 +1,49 @@
+{
+    "post": {
+      "id": "123456789",
+      "user": {
+        "username": "example_user",
+        "profile_picture_url": "https://example.com/profile.jpg"
+      },
+      "content": {
+        "caption": "Exploring the beauty of nature 🌿🌄 #NatureLover",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://example.com/image1.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://example.com/image2.jpg"
+          }
+        ],
+        "tags": ["NatureLover", "Adventure", "Photography"]
+      },
+      "engagement": {
+        "likes": 1200,
+        "comments": [
+          {
+            "id": "comment1",
+            "username": "travel_fanatic",
+            "comment": "This view is stunning! 😍",
+            "timestamp": "2024-12-03T12:00:00Z"
+          },
+          {
+            "id": "comment2",
+            "username": "hiker123",
+            "comment": "Where is this taken?",
+            "timestamp": "2024-12-03T12:05:00Z"
+          }
+        ],
+        "shares": 15,
+        "saves": 30
+      },
+      "timestamp": "2024-12-03T11:30:00Z",
+      "location": {
+        "name": "Yosemite National Park",
+        "latitude": 37.8651,
+        "longitude": -119.5383
+      }
+    }
+  }
+  
